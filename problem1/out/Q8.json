@@ -1,0 +1,28 @@
+﻿{
+  "query": "Q8",
+  "description": "Count delays by line (> 2 min)",
+  "results": [
+    {
+      "line_name": "Route 4",
+      "delay_count": 1410
+    },
+    {
+      "line_name": "Route 20",
+      "delay_count": 1385
+    },
+    {
+      "line_name": "Route 33",
+      "delay_count": 1363
+    },
+    {
+      "line_name": "Route 720",
+      "delay_count": 1360
+    },
+    {
+      "line_name": "Route 2",
+      "delay_count": 1265
+    }
+  ],
+  "count": 5,
+  "execution_time_ms": 5.21
+}

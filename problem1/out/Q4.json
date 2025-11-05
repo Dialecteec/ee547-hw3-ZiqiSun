@@ -1,0 +1,134 @@
+﻿{
+  "query": "Q4",
+  "description": "Complete route for trip (uses stop_events)",
+  "results": [
+    {
+      "trip_id": "T0001",
+      "stop_name": "Le Conte / Broxton",
+      "scheduled": "2025-10-01 06:00:00",
+      "actual": "2025-10-01 06:00:00"
+    },
+    {
+      "trip_id": "T0001",
+      "stop_name": "Le Conte / Westwood",
+      "scheduled": "2025-10-01 06:02:00",
+      "actual": "2025-10-01 06:02:00"
+    },
+    {
+      "trip_id": "T0001",
+      "stop_name": "Le Conte / Tiverton",
+      "scheduled": "2025-10-01 06:02:00",
+      "actual": "2025-10-01 06:02:00"
+    },
+    {
+      "trip_id": "T0001",
+      "stop_name": "Hilgard / Le Conte",
+      "scheduled": "2025-10-01 06:03:00",
+      "actual": "2025-10-01 06:03:00"
+    },
+    {
+      "trip_id": "T0001",
+      "stop_name": "Hilgard / Manning",
+      "scheduled": "2025-10-01 06:03:00",
+      "actual": "2025-10-01 06:03:00"
+    },
+    {
+      "trip_id": "T0001",
+      "stop_name": "Hilgard / Westholme",
+      "scheduled": "2025-10-01 06:04:00",
+      "actual": "2025-10-01 06:04:00"
+    },
+    {
+      "trip_id": "T0001",
+      "stop_name": "Hilgard / Wyton",
+      "scheduled": "2025-10-01 06:05:00",
+      "actual": "2025-10-01 06:05:00"
+    },
+    {
+      "trip_id": "T0001",
+      "stop_name": "Hilgard / Charing Cross",
+      "scheduled": "2025-10-01 06:06:00",
+      "actual": "2025-10-01 06:06:00"
+    },
+    {
+      "trip_id": "T0001",
+      "stop_name": "Sunset / Beverly Glen",
+      "scheduled": "2025-10-01 06:07:00",
+      "actual": "2025-10-01 06:07:00"
+    },
+    {
+      "trip_id": "T0001",
+      "stop_name": "Sunset / Charing Cross",
+      "scheduled": "2025-10-01 06:09:00",
+      "actual": "2025-10-01 06:09:00"
+    },
+    {
+      "trip_id": "T0001",
+      "stop_name": "Sunset / Carolwood",
+      "scheduled": "2025-10-01 06:10:00",
+      "actual": "2025-10-01 06:10:00"
+    },
+    {
+      "trip_id": "T0001",
+      "stop_name": "Sunset / Copley",
+      "scheduled": "2025-10-01 06:11:00",
+      "actual": "2025-10-01 06:11:00"
+    },
+    {
+      "trip_id": "T0001",
+      "stop_name": "Sunset / Whittier",
+      "scheduled": "2025-10-01 06:11:00",
+      "actual": "2025-10-01 06:11:00"
+    },
+    {
+      "trip_id": "T0001",
+      "stop_name": "Sunset / Bedford",
+      "scheduled": "2025-10-01 06:12:00",
+      "actual": "2025-10-01 06:12:00"
+    },
+    {
+      "trip_id": "T0001",
+      "stop_name": "Sunset / Rodeo",
+      "scheduled": "2025-10-01 06:13:00",
+      "actual": "2025-10-01 06:14:00"
+    },
+    {
+      "trip_id": "T0001",
+      "stop_name": "Sunset / Beverly",
+      "scheduled": "2025-10-01 06:13:00",
+      "actual": "2025-10-01 06:14:00"
+    },
+    {
+      "trip_id": "T0001",
+      "stop_name": "Sunset / Rexford",
+      "scheduled": "2025-10-01 06:13:00",
+      "actual": "2025-10-01 06:14:00"
+    },
+    {
+      "trip_id": "T0001",
+      "stop_name": "Sunset / Alpine",
+      "scheduled": "2025-10-01 06:14:00",
+      "actual": "2025-10-01 06:16:00"
+    },
+    {
+      "trip_id": "T0001",
+      "stop_name": "Sunset / Foothill",
+      "scheduled": "2025-10-01 06:14:00",
+      "actual": "2025-10-01 06:16:00"
+    },
+    {
+      "trip_id": "T0001",
+      "stop_name": "Sunset / Maple",
+      "scheduled": "2025-10-01 06:15:00",
+      "actual": "2025-10-01 06:17:00"
+    },
+    {
+      "trip_id": "T0001",
+      "stop_name": "Sunset / Hillcrest",
+      "scheduled": "2025-10-01 06:16:00",
+      "actual": "2025-10-01 06:19:00"
+    }
+  ],
+  "count": 21,
+  "execution_time_ms": 4.31
+}
